@@ -1,0 +1,21 @@
+.inputDiv{
+    display:inline-grid;
+    border:1px solid black;
+    border-radius:25px;
+    margin-top:10%;
+    margin-bottom: 30%;
+    width:25%;
+}
+.MuiFormControl-root.MuiTextField-root{
+    margin: 20px;
+background-color: aliceblue;
+}
+
+.inputDiv .MuiButton-contained {
+    box-shadow: 0px 3px 1px -2px rgb(0 0 0 / 20%), 0px 2px 2px 0px rgb(0 0 0 / 14%), 0px 1px 5px 0px rgb(0 0 0 / 12%);
+    background-color: #303f9f;
+    color: #fff !important; 
+    margin-bottom: 5%;
+
+}
+
